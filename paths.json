@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/ueeds-learning-darshana/:/",
+    "/content/ueeds-learning-darshana/configuration:/.helix/config.json",
+    "/content/ueeds-learning-darshana/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/ueeds-learning-darshana/"
   ]
 }
